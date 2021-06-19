@@ -4,7 +4,8 @@
 <h3>使い方</h3>
 <ol>
 <li>ENUNU を使用できる状態にする（参考: https://github.com/oatsu-gh/ENUNU）</li>
-<li>ENUNU フォルダ内の"hts2wav.py"、"gen.py"を私の作成したもので上書きする<br>（念のため、元のプログラムは、別の場所にコピーしておいてください）</li>
+<li>ENUNU フォルダ内の "hts2wav.py"、"gen.py" を私の作成したプログラムで上書きする
+	<br>（念のため、元のプログラムは、別の場所にコピーしておいてください）</li>
 <li>ENUNU を実行する</li>
 <li>ENUNU が生成した音声ファイルと同じフォルダに、f0、mgc、bapファイルが生成される</li>
 </ol>
