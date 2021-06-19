@@ -11,3 +11,10 @@ ENUNUで音声ファイルを出力する際に、WORLDの音響特徴量も出�
 	 fft_size    : 2048 
 	 fs          : 48000
 	 frame_period: 0.5
+
+参考
+<p>NNSVS (https://github.com/r9y9/nnsvs)</p>
+	
+ENUNU (https://github.com/oatsu-gh/ENUNU)
+	
+WORLD (https://github.com/mmorise/World)
