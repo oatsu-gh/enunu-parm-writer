@@ -1,4 +1,4 @@
-# enunu-parm-write
+# enunu-parm-writer
 <h2>ENUNUで音声ファイルを出力する際に、WORLDの音響特徴量も出力するプログラム</h2>
 <p>出力される音響特徴量は以下の通りです。</p>
 
