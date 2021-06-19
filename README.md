@@ -13,6 +13,7 @@
 	  frame_period : 0.5
 
 <h2>参考</h2>
-<li>NNSVS : https://github.com/r9y9/nnsvs </li>	
-<li>ENUNU : https://github.com/oatsu-gh/ENUNU </li>
-<li>WORLD : https://github.com/mmorise/World </li>
+<li>NNSVS          : https://github.com/r9y9/nnsvs </li>	
+<li>ENUNU          : https://github.com/oatsu-gh/ENUNU </li>
+<li>WORLD          : https://github.com/mmorise/World </li>
+<li>PyWorldVocoder : https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder </li>
