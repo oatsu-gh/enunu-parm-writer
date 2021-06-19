@@ -6,8 +6,8 @@ ENUNUで音声ファイルを出力する際に、WORLDの音響特徴量も出�
 	mgc: frame * 60
 	bap: frame * 5
 	
-	WORLDで読み込む際に、必要な情報
-	全てのファイルは、ヘッダ無しのfloat64 (double) 型
-	fft_size    : 2048 
-	fs          : 48000
-	frame_period: 0.5
+	*WORLDで読み込む際に、必要な情報
+	 全てのファイルは、ヘッダ無しのfloat64 (double) 型
+	 fft_size    : 2048 
+	 fs          : 48000
+	 frame_period: 0.5
