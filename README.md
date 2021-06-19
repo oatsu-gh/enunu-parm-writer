@@ -8,9 +8,9 @@
 	
 	* WORLDで読み込む際に、必要な情報
 	  全てのファイルは、ヘッダ無しのfloat64 (double) 型
-	  fft_size    : 2048 
-	  fs          : 48000
-	  frame_period: 0.5
+	  fft_size     : 2048 
+	  fs           : 48000
+	  frame_period : 0.5
 
 <h2>参考</h2>
 <li>NNSVS : https://github.com/r9y9/nnsvs </li>	
