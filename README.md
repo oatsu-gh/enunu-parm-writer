@@ -1,12 +1,12 @@
 # enunu-parm-writer
-<h2>ENUNUで音声ファイルを出力する際に、WORLDの音響特徴量も出力するプログラム</h2>
+<h2>ENUNU で音声ファイルを出力する際に、WORLD の音響特徴量も出力するプログラム</h2>
 
 <h3>使い方</h3>
 <ol>
-<li>ENUNUを使用できる状態にする（参考: https://github.com/oatsu-gh/ENUNU）</li>
-<li>ENUNUフォルダ内の"hts2wav.py"、"gen.py"を私の作成したもので上書きする<br>（念のため、元のプログラムは、別の場所にコピーしておいてください）</li>
-<li>ENUNUを実行する</li>
-<li>ENUNUが生成した音声ファイルと同じフォルダに、f0、mgc、bapファイルが生成される</li>
+<li>ENUNU を使用できる状態にする（参考: https://github.com/oatsu-gh/ENUNU）</li>
+<li>ENUNU フォルダ内の"hts2wav.py"、"gen.py"を私の作成したもので上書きする<br>（念のため、元のプログラムは、別の場所にコピーしておいてください）</li>
+<li>ENUNU を実行する</li>
+<li>ENUNU が生成した音声ファイルと同じフォルダに、f0、mgc、bapファイルが生成される</li>
 </ol>
 
 <p>出力される音響特徴量は以下の通りです。</p>
